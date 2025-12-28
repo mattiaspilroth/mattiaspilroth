@@ -1,6 +1,6 @@
 # Mattias Pilroth
 
-I work with the strategic and technical foundations of cybersecurity in
+I work on the strategic and technical foundations of cybersecurity in
 safety-critical industrial environments.
 
 My focus is on designing resilient OT architectures that hold up when
@@ -11,13 +11,13 @@ Rather than isolated controls, I focus on foundations: identity, trust,
 network boundaries, and risk management models that can be sustained by the
 line organization over time.
 
-## Core areas
+## Areas of focus
 
 - **Industrial identity and access**  
   OT Active Directory architecture, hardening, lifecycle management,
   and separation from enterprise IT identity.
 
-- **Network architecture and defense**  
+- **Network architecture and boundaries**  
   Secure DMZ patterns, segmentation, and zone-and-conduit design aligned
   with IEC 62443.
 
@@ -26,29 +26,29 @@ line organization over time.
   failure scenarios, and translating risk into appropriate technical
   and organizational controls.
 
-- **Governance and compliance enablement**  
-  Translating NIS2 and other regulatory frameworks into concrete,
+- **Governance enablement**  
+  Translating regulatory intent (for example NIS2) into concrete,
   operationally viable engineering requirements.
 
 ## Public technical notes
 
-I use selected public repositories to document technical edge cases,
-architectural trade-offs, and failure modes encountered in real OT
+I use selected public repositories to document architectural reasoning,
+technical edge cases, and failure modes encountered in real OT
 environments.
 
-- **ot-trust-in-isolated-networks**  
-  Architectural reasoning around PKI, certificate validation, and trust
-  management when connectivity cannot be assumed.
-
 - **ot-security-notes**  
-  Ongoing reflections on OT-specific system behavior, soft failures,
-  and why traditional IT security assumptions often fail in industrial systems.
+  Conceptual and analytical notes on OT-specific system behavior, risk,
+  and failure modes where traditional IT security assumptions break down.
 
-## Disclaimer
-
-All content represents personal technical reflections and does not constitute
-employer guidance, vendor documentation, or formal policy.
+- **ot-trust-in-isolated-networks**  
+  A focused deep-dive into PKI, certificate validation, and trust
+  management in isolated or connectivity-constrained OT environments.
 
 ## Connect
 
 [linkedin.com/in/mattiaspilroth/](https://www.linkedin.com/in/mattiaspilroth)
+
+---
+
+*Disclaimer: All content represents personal technical reflections.  
+It does not represent employer guidance, vendor documentation, or formal policy.*
