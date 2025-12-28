@@ -36,11 +36,11 @@ I use selected public repositories to document architectural reasoning,
 technical edge cases, and failure modes encountered in real OT
 environments.
 
-- **ot-security-notes**  
+- **[ot-security-notes](https://github.com/mattiaspilroth/ot-security-notes)**  
   Conceptual and analytical notes on OT-specific system behavior, risk,
   and failure modes where traditional IT security assumptions break down.
 
-- **ot-trust-in-isolated-networks**  
+- **[ot-trust-in-isolated-networks](https://github.com/mattiaspilroth/ot-trust-in-isolated-networks)**  
   A focused deep-dive into PKI, certificate validation, and trust
   management in isolated or connectivity-constrained OT environments.
 
