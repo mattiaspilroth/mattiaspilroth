@@ -48,6 +48,8 @@ environments.
 
 [linkedin.com/in/mattiaspilroth/](https://www.linkedin.com/in/mattiaspilroth)
 
+Email: mattias@pilroth.com
+
 ---
 
 *Disclaimer: All content represents personal technical reflections.  
