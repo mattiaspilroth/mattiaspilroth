@@ -3,13 +3,13 @@
 I work on the strategic and technical foundations of cybersecurity in
 safety-critical industrial environments.
 
-My focus is on designing resilient OT architectures that hold up when
-enterprise IT requirements collide with operational reality, long system
-lifecycles, and constrained connectivity.
+My focus is on designing resilient OT architectures that remain effective
+when enterprise IT requirements collide with operational reality,
+long system lifecycles, and constrained connectivity.
 
-Rather than isolated controls, I focus on foundations: identity, trust,
-network boundaries, and risk management models that can be sustained by the
-line organization over time.
+Rather than isolated controls, I focus on durable foundations: identity,
+trust, network boundaries, and risk management models that can be sustained
+by the line organization over time.
 
 ## Areas of focus
 
