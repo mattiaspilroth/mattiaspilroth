@@ -7,7 +7,7 @@ My focus is on designing resilient OT architectures that remain effective
 when enterprise IT requirements collide with operational reality,
 long system lifecycles, and constrained connectivity.
 
-Rather than isolated controls, I focus on durable foundations: identity,
+Rather than point solutions or isolated controls, I focus on durable foundations: identity,
 trust, network boundaries, and risk management models that can be sustained
 by the line organization over time.
 
@@ -37,12 +37,12 @@ technical edge cases, and failure modes encountered in real OT
 environments.
 
 - **[ot-security-notes](https://github.com/mattiaspilroth/ot-security-notes)**  
-  Conceptual and analytical notes on OT-specific system behavior, risk,
-  and failure modes where traditional IT security assumptions break down.
+  Broad architectural analysis of recurring patterns where enterprise 
+  security expectations fail to translate into operational reality.
 
 - **[ot-trust-in-isolated-networks](https://github.com/mattiaspilroth/ot-trust-in-isolated-networks)**  
-  A focused deep-dive into PKI, certificate validation, and trust
-  management in isolated or connectivity-constrained OT environments.
+  Focused technical deep-dive into a specific failure domain: how PKI 
+  trust validation breaks in isolated OT networks.
 
 ## Connect
 
