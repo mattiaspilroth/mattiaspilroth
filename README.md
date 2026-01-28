@@ -37,8 +37,7 @@ technical edge cases, and failure modes encountered in real OT
 environments.
 
 - **[ot-security-notes](https://github.com/mattiaspilroth/ot-security-notes)**  
-  Broad architectural analysis of recurring patterns where enterprise 
-  security expectations fail to translate into operational reality.
+  Architectural analysis of how security controls behave under OT operational constraints and system lifecycles
 
 - **[ot-trust-in-isolated-networks](https://github.com/mattiaspilroth/ot-trust-in-isolated-networks)**  
   Focused technical deep-dive into a specific failure domain: how PKI 
