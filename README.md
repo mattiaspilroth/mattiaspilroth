@@ -27,11 +27,10 @@ I use public repositories to document architectural reasoning, technical edge ca
 **[ot-security-notes](https://github.com/mattiaspilroth/ot-security-notes)**  
 Technical notes on operational constraints, degradation patterns, and trust architecture in isolated OT networks. Documents how security controls behave under long lifecycle constraints and what remains reliable over time.
 
-## Connect
+### Connect
 
-[linkedin.com/in/mattiaspilroth/](https://www.linkedin.com/in/mattiaspilroth)  
-Email: mattias@pilroth.com
+[linkedin.com/in/mattiaspilroth/](https://www.linkedin.com/in/mattiaspilroth)
 
----
+<br>
 
-*All content represents independent technical analysis based on professional experience. Does not represent employer positions.*
+> *All content represents independent technical analysis based on professional experience. Does not represent employer positions.*
