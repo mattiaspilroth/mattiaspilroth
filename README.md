@@ -2,9 +2,7 @@
 
 I work on the strategic and technical foundations of cybersecurity in safety-critical industrial environments.
 
-My focus is on architectures that remain effective when enterprise IT requirements collide with operational reality, long system lifecycles, and constrained connectivity.
-
-I focus on foundational layers that must remain reliable over decades: identity, trust, network boundaries, and risk management models that line organizations can sustain.
+My focus is on architectures that remain effective when enterprise IT requirements collide with operational reality, long system lifecycles, and constrained connectivity. That means working on foundational layers that must remain reliable over decades: identity, trust, network boundaries, and risk management models that line organizations can actually sustain.
 
 ## Areas of focus
 
@@ -20,17 +18,18 @@ I focus on foundational layers that must remain reliable over decades: identity,
 - **Regulatory translation**  
   Translating regulatory requirements (NIS2, IEC 62443) into concrete, operationally sustainable engineering controls.
 
-## Public technical notes
+## Writing
 
-I use public repositories to document architectural reasoning, technical edge cases, and failure modes encountered in real OT environments.
+**[operational-resilience-security](https://github.com/mattiaspilroth/operational-resilience-security)**  
+Analytical papers on structural constraints, failure patterns, and consequence-driven security in high-consequence industrial environments. Covers identity, trust architecture, and why compliance-driven programs diverge from resilience over time.
 
 **[ot-security-notes](https://github.com/mattiaspilroth/ot-security-notes)**  
-Technical notes on operational constraints, degradation patterns, and trust architecture in isolated OT networks. Documents how security controls behave under long lifecycle constraints and what remains reliable over time.
+Working notes and developing thinking. Earlier drafts, fragments, and ideas that have not yet resolved into finished analysis.
 
-### Connect
+## Connect
 
-[linkedin.com/in/mattiaspilroth/](https://www.linkedin.com/in/mattiaspilroth)
+[linkedin.com/in/mattiaspilroth](https://www.linkedin.com/in/mattiaspilroth)
 
-<br>
+---
 
 > *All content represents independent technical analysis based on professional experience. Does not represent employer positions.*
