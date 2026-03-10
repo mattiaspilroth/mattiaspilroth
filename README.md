@@ -23,9 +23,6 @@ My focus is on architectures that remain effective when enterprise IT requiremen
 **[operational-resilience-security](https://github.com/mattiaspilroth/operational-resilience-security)**  
 Analytical writing on structural constraints, failure patterns, and consequence-driven security in high-consequence industrial environments. Covers identity, trust architecture, and why compliance-driven programs diverge from resilience over time.
 
-**[ot-security-notes](https://github.com/mattiaspilroth/ot-security-notes)**  
-Working notes and developing thinking. Earlier drafts, fragments, and ideas that have not yet resolved into finished analysis.
-
 ## Connect
 
 [linkedin.com/in/mattiaspilroth](https://www.linkedin.com/in/mattiaspilroth)
