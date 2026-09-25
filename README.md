@@ -1,3 +1,3 @@
 # Mattias Pilroth
 
-OT security architect. Consequence-derived investment frameworks for process industry environments. Operator background: six years at a SEVESO-classified facility. Current work at mattiaspilroth.com.
+OT security architecture at a high-hazard chemical operator. Six and a half years of operational responsibility at a SEVESO-classified facility before moving to enterprise OT security across 14 sites in 8 European countries. Current work at mattiaspilroth.com.
